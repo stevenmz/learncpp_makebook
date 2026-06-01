@@ -2,3 +2,4 @@
 /html_raw
 *.epub
 *.pdf
+.DS_Store
